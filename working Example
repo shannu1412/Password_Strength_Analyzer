@@ -1,0 +1,25 @@
+==================================================
+     Password Strength Analyzer
+==================================================
+
+MENU:
+  1. 🔍 Analyze a password
+  2. 💡 Get password suggestions only
+  3. 🗑️  Clear password history
+  4. 🚪 Exit
+
+Choose option (1-4): 1
+
+Enter password to analyze: MyP@ssw0rd2024
+
+==================================================
+📊 STRENGTH SCORE: 85/100
+🟢 Verdict: EXCELLENT — Strong password
+[████████████████████]
+
+📈 DETAILS:
+   • Length: 12 characters
+   • Uppercase: ✅
+   • Lowercase: ✅
+   • Numbers: ✅
+   • Special chars: ✅
